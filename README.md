@@ -2,7 +2,8 @@
   🍍BURAABURRAA🍍
 </h1>
 
-![YOKOSOWAGAIGITUHABUUE](https://media.giphy.com/media/l61IRqCwg9fF2r8qYp/giphy.gif)
+<div align="center"><img src="images/Ritsu.gif" alt="YOKOSOWAGAIGITUHABUUE">
+</div>
 
 <div align="center"><strong>IMA DRAWER GUYS</strong></div>
 
