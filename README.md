@@ -1,14 +1,17 @@
-# **🍍BURAAAA BURAAAAAA🍍**
-![sorry](images/Ritsu.gif.gif) 
+<h1 align='center'>
+  🍍BURAABURRAA🍍
+</h1>
 
-<div align="center"><strong>IMMA DRAWERRRRR</strong></div>
+<div align="center"><img src="Ritsu.gif" alt="YOKOSOWAGAIGITUHABUUE">
 
-<div align="center">
-        <a href="https://web.facebook.com/raruraru.eri"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" /></a> <a href="https://x.com/ShouAmeee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<strong>IMA DRAWER GUYS</strong>
+
+<p>I'd like to draw anime, so if you want to order some commisionss you can dm me in <a href="https://x.com/ShouAmeee">X</a>
+
+<strong>💻 Here is my social media</strong>
+
+<a href="https://web.facebook.com/raruraru.eri"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" /></a> <a href="https://x.com/ShouAmeee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+Want to see my art? here is my <a href="https://x.com/ShouAmeee">portofolio</a>
 </div>
-
-- 🎨 [Art Portfolio](https://www.pixiv.net/users/70731567)
-
-
-### My age
-Umur: 0 tahun
+    <p align="center"></p>
