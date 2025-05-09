@@ -1,4 +1,8 @@
-## Hi there 👋
+## **🍍BURAAAA BURAAAAAA🍍**
+![sorry](https://giffiles.alphacoders.com/353/35360.gif)
+I'm really an artist broo just believe meee
+- 🐦 My [X](https://x.com/ShouAmeee) account
+- 🍳I usually active [here](https://facebook.com/raruraru.eri)
 
 <!--
 **biraruananda/biraruananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
