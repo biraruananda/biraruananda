@@ -1,5 +1,5 @@
 # **🍍BURAAAA BURAAAAAA🍍**
-![sorry](images/Ritsu.gif.gif) 
+![sorry](images/Ritsu.gif) 
 
 <div align="center"><strong>IMMA DRAWERRRRR</strong></div>
 
