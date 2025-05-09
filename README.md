@@ -7,7 +7,8 @@
 
 <div align="center"><strong>IMA DRAWER GUYS</strong></div>
 
-<p align="center">I'd like to draw anime, so if you want to order some commisionss you can dm me in <a href="https://x.com/ShouAmeee">X</p>
+
+<p align="center">I'd like to draw anime, so if you want to order a commisions you can dm me in <a href="https://x.com/ShouAmeee">X</p>
 
 <div align="center"><strong>💻 Here is my social media</strong></div>
 
