@@ -14,6 +14,6 @@
 
 <div align="center"><a href="https://web.facebook.com/raruraru.eri"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=whit" /></a> <a href="https://x.com/ShouAmeee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://discordapp.com/users/1015292548757078056"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a></div>
 
-<div align="center">Want to see my art? here is my <a href="https://x.com/ShouAmeee">portofolio</a>
+<div align="center">Want to see my art? here is my <a href="https://www.pixiv.net/en/users/70731567">portofolio</a>
 </div>
     <p align="center"></p>
