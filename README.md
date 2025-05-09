@@ -9,7 +9,6 @@
 
 - 🎨 [Art Portfolio](https://www.pixiv.net/users/70731567)
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
+### My age
+umur: 0 tahun

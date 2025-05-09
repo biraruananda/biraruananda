@@ -1,0 +1,26 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Hitung usia dan update README
+        run: |
+          BIRTHDATE="2007-02-01"
+          TODAY=$(date +%Y-%m-%d)
+          AGE=$(echo $(( ($(date -d "$TODAY" +%s) - $(date -d "$BIRTHDATE" +%s)) / 31556952 )))
+          
+          sed -i "s/Umur: .*/Umur: $AGE tahun/" README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update umur otomatis"
+          git push
