@@ -2,7 +2,7 @@
   🍍BURAABURRAA🍍
 </h1>
 
-![YOKOSOWAGAIGITUHABUUE]("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndvajVucDhtbWJqamZmY2Jvemt4Z3FtdXNkeXo2OGZ5aHVvb3IzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l61IRqCwg9fF2r8qYp/giphy.gif")
+![YOKOSOWAGAIGITUHABUUE](https://media.giphy.com/media/l61IRqCwg9fF2r8qYp/giphy.gif)
 
 <div align="center"><strong>IMA DRAWER GUYS</strong></div>
 
