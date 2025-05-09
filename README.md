@@ -1,5 +1,5 @@
 # **🍍BURAAAA BURAAAAAA🍍**
-![sorry](https://giffiles.alphacoders.com/353/35360.gif) 
+![sorry](images/Ritsu.gif.gif) 
 
 <div align="center"><strong>IMMA DRAWERRRRR</strong></div>
 
