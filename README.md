@@ -8,6 +8,6 @@
 <div align="center"><strong>IMA DRAWER GUYS</strong></div>
 
 
-<div align="center">Want to see my art? here is my <a href="[https://www.pixiv.net/en/users/70731567](https://www.instagram.com/bilalanandadf?igsh=MWQ2ZnBpcW4zaG9mZA==)">portofolio</a>
+<div align="center">Want to see my art? here is my <a href="https://www.instagram.com/bilalanandadf?igsh=MWQ2ZnBpcW4zaG9mZA==">portofolio</a>
 </div>
     <p align="center"></p>
